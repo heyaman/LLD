@@ -1,0 +1,3 @@
+1) so in last improvisation we make seprate iterator classes like BSTItertor,LinkedListIterator which implemented by concerete classes
+like BST,LinkedList respectively where as BSTIterator classes implement iterabble interface which contains hasNext(),next() method so we can define bussiness logic respectively in
+BSTIterator,LinkedListIterator as per as their structure

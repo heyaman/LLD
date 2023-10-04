@@ -1,0 +1,3 @@
+1) we can implement common interface like DS which contains method getData and getData give iterable list of integer
+2) thn on client end we had responsibility to iterate each value one by one.
+3) So here drawback is client had maintain proper responsibility to iterate each member one by one tracking like index reached it size or not which is not ideal case scenario

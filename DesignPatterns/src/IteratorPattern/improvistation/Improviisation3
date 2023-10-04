@@ -1,0 +1,2 @@
+1) so another way is we can make iterable interface which contains next(), hasNext() method which implement by concerete classes BST, linkedList
+2) so one draw back is due to this we end up making BST, linkedList classes bulky like making hasnext annd next method definition
